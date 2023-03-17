@@ -1,0 +1,80 @@
+[
+    {
+      "titulo": "Dia Ensolarado",
+      "imagem": "/assets/imagens/galeria/foto-1.jpg",
+      "id": "1",
+      "tag": "Praia"
+    },
+    {
+      "titulo": "Pôr do Sol",
+      "imagem": "/assets/imagens/galeria/foto-2.jpg",
+      "id": "2",
+      "tag": "Por-do-sol"
+    },
+    {
+      "titulo": "No Alto",
+      "imagem": "/assets/imagens/galeria/foto-3.jpg",
+      "id": "3",
+      "tag": "Praia"
+    },
+    {
+      "titulo": "Tchau Sol",
+      "imagem": "/assets/imagens/galeria/foto-4.jpg",
+      "id": "4",
+      "tag": "Por-do-sol"
+    },
+    {
+      "titulo": "A Caminho do Paraiso",
+      "imagem": "/assets/imagens/galeria/foto-5.jpg",
+      "id": "5",
+      "tag": "Praia"
+    },
+    {
+      "titulo": "Paisagem do Campo",
+      "imagem": "/assets/imagens/galeria/foto-6.jpg",
+      "id": "6",
+      "tag": "Campo"
+    },
+    {
+      "titulo": "Sol e Praia",
+      "imagem": "/assets/imagens/galeria/foto-7.jpg",
+      "id": "7",
+      "tag": "Por-do-sol"
+    },
+    {
+      "titulo": "Natureza",
+      "imagem": "/assets/imagens/galeria/foto-8.jpg",
+      "id": "8",
+      "tag": "Cachoeira"
+    },
+    {
+      "titulo": "Fazenda Raio de Sol",
+      "imagem": "/assets/imagens/galeria/foto-9.jpg",
+      "id": "9",
+      "tag": "Campo"
+    },
+    {
+      "titulo": "Árvore",
+      "imagem": "/assets/imagens/galeria/foto-10.jpg",
+      "id": "10",
+      "tag": "Campo"
+    },
+    {
+      "titulo": "Cachoeira de Baixo",
+      "imagem": "/assets/imagens/galeria/foto-11.jpg",
+      "id": "11",
+      "tag": "Cachoeira"
+    },
+    {
+      "titulo": "Paz",
+      "imagem": "/assets/imagens/galeria/foto-12.jpg",
+      "id": "12",
+      "tag": "Cachoeira"
+    },
+    {
+      "titulo": "A Maior",
+      "imagem": "/assets/imagens/galeria/foto-13.jpg",
+      "id": "13",
+      "tag": "Cachoeira"
+    }
+]
